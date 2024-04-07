@@ -1,0 +1,5 @@
+i3 Tutorial - https://itsfoss.com/i3-customization/
+
+sudo apt install i3
+sudo apt install suckless-tools
+sudo apt install lightdmenu
